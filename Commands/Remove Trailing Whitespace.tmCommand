@@ -10,7 +10,7 @@
 
 perl -pe 's/[\t ]+$//g'</string>
 	<key>input</key>
-	<string>selection</string>
+	<string>document</string>
 	<key>inputFormat</key>
 	<string>text</string>
 	<key>name</key>
@@ -20,9 +20,9 @@ perl -pe 's/[\t ]+$//g'</string>
 	<key>outputFormat</key>
 	<string>text</string>
 	<key>outputLocation</key>
-	<string>replaceInput</string>
+	<string>replaceDocument</string>
 	<key>semanticClass</key>
-	<string>callback.document.will-save</string>
+	<string>callback.document.export</string>
 	<key>uuid</key>
 	<string>F5990602-77CD-4EEB-AB0C-6EB9CEA9D83F</string>
 	<key>version</key>

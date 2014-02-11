@@ -10,7 +10,7 @@
 
 perl -pe 's/([^\n])\z/$1\n/g'</string>
 	<key>input</key>
-	<string>selection</string>
+	<string>document</string>
 	<key>inputFormat</key>
 	<string>text</string>
 	<key>name</key>
@@ -20,9 +20,9 @@ perl -pe 's/([^\n])\z/$1\n/g'</string>
 	<key>outputFormat</key>
 	<string>text</string>
 	<key>outputLocation</key>
-	<string>replaceInput</string>
+	<string>replaceDocument</string>
 	<key>semanticClass</key>
-	<string>callback.document.will-save</string>
+	<string>callback.document.export</string>
 	<key>uuid</key>
 	<string>91B03D8C-9838-4EAA-AAB3-18CDE55BA385</string>
 	<key>version</key>
