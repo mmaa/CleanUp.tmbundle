@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>znepbf@npbfgn.gi</string>
+	<key>contactName</key>
+	<string>Marcos Acosta</string>
+	<key>description</key>
+	<string>Remove trailing whitespace and ensure a newline at EOF automatically upon saving.</string>
+	<key>name</key>
+	<string>Clean Up Code</string>
+	<key>uuid</key>
+	<string>7FF85A9B-9886-45FF-B308-8D030D81B110</string>
+</dict>
+</plist>
