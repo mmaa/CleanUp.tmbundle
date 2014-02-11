@@ -9,7 +9,7 @@
 	<key>description</key>
 	<string>Remove trailing whitespace and ensure a newline at EOF automatically upon saving.</string>
 	<key>name</key>
-	<string>Clean Up Code</string>
+	<string>Clean Up</string>
 	<key>uuid</key>
 	<string>7FF85A9B-9886-45FF-B308-8D030D81B110</string>
 </dict>
